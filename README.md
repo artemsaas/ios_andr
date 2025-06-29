@@ -8,7 +8,7 @@
     window.onload = function () {
       const ua = navigator.userAgent || navigator.vendor || window.opera;
 
-      const iosLink = "https://cerulean-unicorn-64e5f2.netlify.app";       // ← вставь сюда iOS ссылку
+      const iosLink = "https://sunny-manatee-4a1e08.netlify.app";       // ← вставь сюда iOS ссылку
       const androidLink = "https://artemsaas.github.io/06.06.24"; // ← и сюда Android
 
       if (/iPhone|iPad|iPod/i.test(ua)) {
